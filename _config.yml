@@ -1,5 +1,6 @@
-title: Sebastian Cramer
+title: Meanings
 description: Software development and the meaning of everything
+name: Sebastian Cramer
 lsi: false
 safe: true
 source: /
@@ -13,3 +14,10 @@ kramdown:
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      read_time: true
