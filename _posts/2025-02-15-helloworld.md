@@ -1,11 +1,8 @@
 ---
-layout: post
 title:  "Welcome to here!"
 tag: meanings
 ---
-# Helloworld
-
-Hi,
+Helloworld,
 i am Sebastian Cramer.
 
 I develop software for a medium sized company that is *not* specialized on software development.
