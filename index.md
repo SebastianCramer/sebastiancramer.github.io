@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-# helloworld
-
-this is me!
 
 ## Here are all posts:
 <ul>
